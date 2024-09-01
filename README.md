@@ -29,9 +29,9 @@ Very Important NOTE: This system is not completed yet as it is still under testi
 https://github.com/user-attachments/assets/f97c25e1-082e-4965-86a0-d50519fdec1b
 
 ## For Mission Planner Configurations 
-https://ardupilot.org/plane/docs/quadplane-support.html
-https://ardupilot.org/plane/docs/quadplane-auto-mode.html
-https://ardupilot.org/plane/docs/quadplane-vtol-tuning.html
+1. https://ardupilot.org/plane/docs/quadplane-support.html
+2. https://ardupilot.org/plane/docs/quadplane-auto-mode.html
+3. https://ardupilot.org/plane/docs/quadplane-vtol-tuning.html
 
 ## For QGround Configurations 
 https://docs.px4.io/main/en/frames_vtol/
