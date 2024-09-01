@@ -43,16 +43,16 @@ https://www.youtube.com/@IntelligentQuads/playlists
 https://www.youtube.com/playlist?list=PLy9nLDKxDN68cwdt5EznyAul6R8mUSNou
 
 ## To use companion computers either for Mission Planner or QGround
-https://ardupilot.org/dev/docs/companion-computers.html
-https://docs.px4.io/main/en/companion_computer/pixhawk_companion.html
+1. https://ardupilot.org/dev/docs/companion-computers.html
+2. https://docs.px4.io/main/en/companion_computer/pixhawk_companion.html
 
 ## To use ROS 1 or 2 (ROS2 is recommended) Mission Planner or QGround
-https://ardupilot.org/dev/docs/ros.html
-https://docs.px4.io/main/en/dev_setup/dev_env.html
+1. https://ardupilot.org/dev/docs/ros.html
+2. https://docs.px4.io/main/en/dev_setup/dev_env.html
 
 ## Recommended Discord channels for support 
-(Droncode) https://discord.gg/dronecode 
-(ArduPilot) https://discord.gg/svCkuxth4n 
+1. (Droncode) https://discord.gg/dronecode 
+2. (ArduPilot) https://discord.gg/svCkuxth4n 
 
 ## NU Autonomous Robotics Notion Workspace with more resources 
 https://awesome-mongoose-6ca.notion.site/Autonomous-Robotics-NU-b3b0c370bd624ed4915d17acc76dab40?pvs=4
