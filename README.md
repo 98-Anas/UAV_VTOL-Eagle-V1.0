@@ -33,6 +33,9 @@ https://ardupilot.org/plane/docs/quadplane-support.html
 https://ardupilot.org/plane/docs/quadplane-auto-mode.html
 https://ardupilot.org/plane/docs/quadplane-vtol-tuning.html
 
+## For QGround Configurations 
+https://docs.px4.io/main/en/frames_vtol/
+
 ## For Simulation Tutorials
 https://www.youtube.com/@IntelligentQuads/playlists
 
@@ -48,9 +51,10 @@ https://ardupilot.org/dev/docs/ros.html
 https://docs.px4.io/main/en/dev_setup/dev_env.html
 
 ## Recommended Discord channels for support 
-https://discord.gg/dronecode (Droncode)
-https://discord.gg/svCkuxth4n (ArduPilot)
+(Droncode) https://discord.gg/dronecode 
+(ArduPilot) https://discord.gg/svCkuxth4n 
 
 ## NU Autonomous Robotics Notion Workspace with more resources 
 https://awesome-mongoose-6ca.notion.site/Autonomous-Robotics-NU-b3b0c370bd624ed4915d17acc76dab40?pvs=4
+
 ![robotics workspace](https://github.com/user-attachments/assets/023374e9-325e-4074-a878-cdb9cc16a30d)
