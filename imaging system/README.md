@@ -63,7 +63,7 @@ nohup ./sys_run.sh &
 ## Steps for Preparing the System Environment
 1. Flash Raspberry Pi OS (Bookworm 64-Bit: [Download](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit)) or Ubuntu ([Download](https://ubuntu.com/raspberry-pi)).
 
-### In Raspberry Pi 5, you can safely overclock to 2.7GHz with its active cooler. Follow these steps carefully but after the initial 4 steps:
+### In Raspberry Pi 5, you can safely overclock to 2.7GHz with its active cooler. Follow these steps carefully but after the initial setup steps:
 1. Open the config file:
    ```bash
    sudo nano /boot/firmware/config.txt
