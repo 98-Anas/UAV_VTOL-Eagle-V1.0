@@ -1,5 +1,3 @@
-Here's the corrected markdown with proper spacing and formatting for the titles:
-
 # UAV Imaging System
 
 ## System Block Diagram
