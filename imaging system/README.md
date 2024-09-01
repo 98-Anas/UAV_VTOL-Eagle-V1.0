@@ -1,4 +1,5 @@
 # UAV Imaging System
+This repository contains the code and scripts used for a VTOL (Vertical Take-Off and Landing) UAV imaging system. The system is designed to record video footage with embedded GPS coordinates and FPS (frame per second), captured during the mission. The GPS data is continuously read from a GPS module and overlaid onto the video frames in real-time. The final video file, complete with GPS data, is saved to a USB storage device for easy retrieval.
 
 ## System Block Diagram
 ![Companion Computer (SBC)](https://github.com/user-attachments/assets/0f4466d1-82da-45e2-8a17-c8f3875cd3bc)
