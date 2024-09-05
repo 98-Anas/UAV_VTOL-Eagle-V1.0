@@ -24,7 +24,7 @@ This repo contains the first system desinged for Eagles Team' VTOL Unmanned aeri
 12. SIK Telemetry Radio V3
 
 ### Very Important NOTE: This system is not completed yet as it is still under testing and development.
-### Special Thanks to: George and Andrew for their work as contributors in creating this system.  
+### Special Thanks to: George and krolus for their work as contributors in creating this system.  
 
 ## Simple hover test on gazebo simulator (ROS 1 - Ubuntu 20.04)
 https://github.com/user-attachments/assets/f97c25e1-082e-4965-86a0-d50519fdec1b
