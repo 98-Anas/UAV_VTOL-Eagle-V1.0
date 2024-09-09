@@ -25,7 +25,7 @@ This repo contains the first system desinged for Eagles Team' VTOL Unmanned aeri
 
 ### Very Important NOTE: This system is not completed yet as it is still under testing and development.
 
-## Targeted System:
+## Targeted System Goal:
 Writing in progress.....
 
 ## Checkpoints Finished:
