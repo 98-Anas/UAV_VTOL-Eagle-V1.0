@@ -30,6 +30,10 @@ Writing in progress.....
 
 ## Checkpoints Finished:
 Writing in progress.....
+
+## Challenges and Important notes:
+Writing in progress.....
+
 ## Simple hover test on gazebo simulator (ROS 1 - Ubuntu 20.04)
 https://github.com/user-attachments/assets/f97c25e1-082e-4965-86a0-d50519fdec1b
 
