@@ -51,8 +51,8 @@ https://www.youtube.com/playlist?list=PLy9nLDKxDN68cwdt5EznyAul6R8mUSNou
 2. https://docs.px4.io/main/en/dev_setup/dev_env.html
 
 ## Recommended Discord channels for support 
-1. (Droncode) https://discord.gg/dronecode 
-2. (ArduPilot) https://discord.gg/svCkuxth4n 
+1. [Dronecode Foundation](https://discord.com/invite/dronecode) 
+2. [ArduPilot Community](https://discord.com/invite/M346dY8)
 
 ## NU Autonomous Robotics Notion Workspace with more resources 
 https://awesome-mongoose-6ca.notion.site/Autonomous-Robotics-NU-b3b0c370bd624ed4915d17acc76dab40?pvs=4
