@@ -25,6 +25,11 @@ This repo contains the first system desinged for Eagles Team' VTOL Unmanned aeri
 
 ### Very Important NOTE: This system is not completed yet as it is still under testing and development.
 
+## Targeted System:
+Writing in progress.....
+
+## Checkpoints Finished:
+Writing in progress.....
 ## Simple hover test on gazebo simulator (ROS 1 - Ubuntu 20.04)
 https://github.com/user-attachments/assets/f97c25e1-082e-4965-86a0-d50519fdec1b
 
