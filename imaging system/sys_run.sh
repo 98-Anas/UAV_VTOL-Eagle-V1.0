@@ -16,6 +16,6 @@ echo "system initialization..."
 
 sleep 2
 
-python vid_gps.py &
+python vid_gps/main.py 
 
 
