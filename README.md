@@ -63,7 +63,11 @@ https://www.youtube.com/playlist?list=PLy9nLDKxDN68cwdt5EznyAul6R8mUSNou
 1. [Dronecode Foundation](https://discord.com/invite/dronecode) 
 2. [ArduPilot Community](https://discord.com/invite/M346dY8)
 
+
 ## NU Autonomous Robotics Notion Workspace with more resources 
 https://awesome-mongoose-6ca.notion.site/Autonomous-Robotics-NU-b3b0c370bd624ed4915d17acc76dab40?pvs=4
 
 ![robotics workspace](https://github.com/user-attachments/assets/023374e9-325e-4074-a878-cdb9cc16a30d)
+
+## Certificate Of Participation (a proof of experience)
+![UAVC_Cert](https://github.com/user-attachments/assets/d1b0a943-b5d6-4be6-bf70-3dfa1d12722f)
