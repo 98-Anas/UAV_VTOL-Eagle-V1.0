@@ -1,6 +1,8 @@
 # UAV_VTOL-EagleV1.0
 This repo contains the first system designed for Eagles Team' VTOL Unmanned aerial vehicle.
 
+NOTE: If you want talk to my repo and have a deep wiki >>
+https://deepwiki.com/98-Anas/UAV_VTOL-Eagle-V1.0/1-overview
 # VTOL UAV Advanced System
 
 ## System Block Diagram
