@@ -1,6 +1,11 @@
 # UAV_VTOL-EagleV1.0
 This repo contains the first system designed for Eagles Team' VTOL Unmanned aerial vehicle.
 
+I joined Eagles Club as Head of Control and Autonomous and it was a nice experience.
+
+![Certificate Of Appreciation](https://www.linkedin.com/posts/anas-ayman98_i-am-so-glad-that-i-had-been-a-part-of-this-activity-7332421524315963393-X6yM)
+
+
 NOTE: If you want talk to my repo and have a deep wiki >>
 https://deepwiki.com/98-Anas/UAV_VTOL-Eagle-V1.0/1-overview
 # VTOL UAV Advanced System
